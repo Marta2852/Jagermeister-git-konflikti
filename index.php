@@ -13,5 +13,7 @@
          </p>
 
         <img src=https://secretbottleshop.co.uk/cdn/shop/files/dc194924-3610-4d89-acb8-5c59647f6f43_700x700.jpg?v=1748337973 width="300" height="300" >
-</body>
+
+        <h3>Alcohol is dangerous for your health. Drink responsibly.</h3>
+    </body>
 </html>
